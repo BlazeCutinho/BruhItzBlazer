@@ -1,5 +1,5 @@
 ### Hi there 👋
-### - 🌱 I’m currently learning ... Golang
+### - 🌱 I’m currently learning ... Go
 ### - 📫 How to reach me: ... blaze@blazeus.com
 <!--
 **BruhItzBlazer/BruhItzBlazer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
